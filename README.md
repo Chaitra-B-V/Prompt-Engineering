@@ -1,7 +1,7 @@
 # Prompt-Engineering
 
-https://chat.openai.com/share/43c5dc55-2273-44c1-9d20-b2b90a264a68
-Question 1: a) Use chatgpt to write an medium.com article on best practices for writing prompts. 
+
+Part A: a) Use chatgpt to write an medium.com article on best practices for writing prompts. 
 
 https://medium.com/@curious_happy_mind/unleashing-creativity-using-gpt-4-835a65e85292
 
